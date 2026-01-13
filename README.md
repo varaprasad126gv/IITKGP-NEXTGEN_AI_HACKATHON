@@ -1,6 +1,6 @@
-# IITKGP-NEXTGEN_AI_HACKATHON
+# IITKGP_DATA_SCIENCE_HACKATHON
 AI-Powered Narrative Consistency &amp; Misinformation Detection System – NEXTGEN AI Hackathon Submission
-# IITKGP NEXTGEN AI Hackathon – Eco Genesis
+# IITKGP_DATA_SCIENCE_HACKATHON – Eco Genesis
 
 ## Project Title
 AI-Powered Narrative Consistency & Misinformation Detection System
@@ -36,4 +36,4 @@ Independent AI agents debate the input text, and a centralized AI Judge generate
 - Lightweight & scalable
 
 ## Hackathon
-IITKGP-NEXTGEN_AI_HACKATHON
+IITKGP_DATA_SCIENCE_HACKATHON
