@@ -36,5 +36,4 @@ Independent AI agents debate the input text, and a centralized AI Judge generate
 - Lightweight & scalable
 
 ## Hackathon
-NEXTGEN-AI 2026  
-Organized by NUVIA – The SPEC Club
+IITKGP-NEXTGEN_AI_HACKATHON
